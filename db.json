@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 60000,
+      "quantity": "12",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 1200,
+      "quantity": 10,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 2000,
+      "quantity": 32,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Hp",
+      "price": "20000",
+      "quantity": "25",
+      "selected": true,
+      "id": 4
+    },
+    {
+      "name": "Samnsung",
+      "price": "21000",
+      "quantity": "25",
+      "selected": true,
+      "id": 5
+    },
+    {
+      "name": "Mac",
+      "price": "5000",
+      "quantity": "30",
+      "selected": true,
+      "id": 6
+    }
+  ]
+}
